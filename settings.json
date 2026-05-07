@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Adityakaserver.aternos.me",
+    "port":58773 ,
     "version": "",
     "try-creative": false
   },
